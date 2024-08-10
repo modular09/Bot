@@ -1,4 +1,2 @@
-# Packages
-⤷  `pip install discord`
-
-⤷  `pip install python-dotenv`
+> [!NOTE]
+> Create a `.env` file in the directory and setup with `TOKEN= `.
